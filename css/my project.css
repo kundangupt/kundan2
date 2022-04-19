@@ -1,0 +1,247 @@
+.hero{
+   background-color: aqua; 
+}
+.happy customer{
+   color: brown;
+}
+.navbar
+{
+   background-color:#6495ed;
+   width: 100%;
+   
+}
+.nav-item{
+   padding: 5px;
+   margin: 10px;
+background-color: blue;
+border-radius: 5px;
+color: white;
+font-weight: 700;
+}
+.design fans{
+   color: #6495ed;
+}
+
+.delivered-meals {
+  display: flex;
+  align-items: center;
+  gap: 1.6rem;
+  margin-top: 8rem;
+}
+
+
+
+.product{
+   margin-top: 20px;
+   font-size: 40px;
+   color: #6495ed;
+   justify-content: center;
+   margin-bottom: 40px;
+}
+
+.product{
+   display: flex;
+   background-color: blue;
+   margin-top: 40px;
+}
+
+
+.product-range{
+   display: flex;
+   justify-content: center;
+
+}
+.product-text {
+   display: flex;
+  font-size: 1.8rem;
+  font-weight: 700;
+  justify-content: center;
+  margin-top: 40px;
+}
+
+.product-text {
+  justify-content: center; 
+  color:#6495ed;
+
+}.CUSTOMERS{
+   margin-top: 20px;
+   font-size: 40px;
+   color: #6495ed;
+   justify-content: center;
+   margin-bottom: 40px;
+   background-color: #b1c6ef;
+}
+
+
+.happy-customer{
+   display: flex;
+   justify-content: center;
+}
+.CUSTOMERS{
+   display: flex;
+   background-color: blue;
+   margin-top: 40px;
+}
+
+.footer {
+   display: flex;
+ border-top: 1px solid #eee;
+ flex-direction: row;
+ }
+ 
+ .grid--footer {
+   grid-template-columns: 1.5fr 1.5fr 1fr 1fr 1fr;
+ }
+ 
+ .logo-col {
+ display: flex;
+ flex-direction: row;
+ height: 40px;
+ width: 70px;
+ }
+ 
+ .footer-logo {
+ display: block;
+ margin-bottom: 3.2rem;
+ }
+ 
+ .social-links {
+ list-style: none;
+ display: flex;
+ gap: 2.4rem;
+ }
+ 
+ .social-icon {
+   height: 2.4rem;
+   width: 2.4rem;
+ }
+ 
+ .copyright {
+ font-size: 1,4rem;
+ line-height: 1.6rem;
+ color: #767676;
+ margin-top: auto;
+ }
+ 
+ .footer-heading {
+   font-size: 5px;
+   font-weight: 500;
+   margin-bottom: 4rem; 
+   display: flex; 
+ }
+ 
+ .contacts {
+   font-style: normal;
+   font-size: 1.6rem;
+   line-height: 1.6;
+ }
+ 
+ .address {
+   margin-bottom: 2.4rem;
+ }
+ 
+ .footer-nav {
+   list-style: none;
+ display: flex;
+ flex-direction: column;
+ gap: 2.4rem;
+ 
+ }
+ 
+ .footer-link:link,
+ .footer-link:visited {
+   text-decoration: none;
+   font-size: 1.6rem;
+   color: #767676;
+   transition: all 0.3s;
+ }
+ 
+ .footer-link:hover,
+ .footer-link:active {
+   color: #555;
+ } 
+ .nav-col{
+    display: flex;
+    flex-direction: row;
+
+ }
+ .footer{
+    background-color: #6495ed;
+    height: auto;
+    width: 100vw;
+    padding-top: 40px;
+    color: aliceblue;
+   
+ }
+
+ .footer-content{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    text-align: center;
+
+ }
+ .footer-content h3{
+    font-size: 1.8rem;
+    font-weight: 400;
+    text-transform: capitalize;
+    line-height: 3rem;
+
+ }
+ .footer-content p{
+    max-width: 500px;
+    margin: 10px auto;
+    line-height: 28px;
+    font-size: 14px;
+ }
+ .socials{
+        list-style: none;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        margin: 1rem 0.3rem 0rem;
+ }
+ .socials li{
+    margin: 0 10px;
+ }
+ .socials a{
+    text-decoration: none;
+    color: azure;
+ }
+ .socials a i{
+    font-size: 1.1rem;
+    transition: color .4s ease;
+
+ }
+ .socials a :hover i{
+    color: #b1c6ef;
+ }
+ .footer-botton{
+    background-color: blue;
+    width: 100vw;
+    padding: 20px 0;
+    text-align: center;
+
+ }
+ .footer-botton p{
+    font-size: 14px;
+    word-spacing: 2px;
+    text-transform: capitalize;
+    margin-left: 40px;
+ }
+
+ .logo{
+    height: 150px;
+    width: 120x;
+    margin: 30px;
+ }
+ .follow {
+    margin-left: 60px;
+ }
+.server{
+   font-size: 60px;
+   margin-bottom: 60px;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 100;
+}
